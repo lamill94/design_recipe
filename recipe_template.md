@@ -28,8 +28,6 @@ _Make a list of examples of what the function will take and return._
 
 _After each test you write, follow the test-driving process of red, green, refactor to implement the behaviour._
 
-Here's an example for you to start with:
-
 ```python
 
 
